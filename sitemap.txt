@@ -1,3 +1,10 @@
-https://why-1513.github.io.git/2024/04/25/C++%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B/
-https://why-1513.github.io.git/2024/04/25/C++%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/
+https://why-1513.github.io.git/about/index.html
+https://why-1513.github.io.git/links/index.html
+https://why-1513.github.io.git/repository/index.html
+https://why-1513.github.io.git/2024/04/28/C++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/
+https://why-1513.github.io.git/2024/04/28/C++%E5%9F%BA%E7%A1%80%E7%BC%96%E7%A8%8B/
+https://why-1513.github.io.git/2024/04/28/C++%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/
+https://why-1513.github.io.git/tags/index.html
+https://why-1513.github.io.git/categories/index.html
 https://why-1513.github.io.git/
+https://why-1513.github.io.git/categories/C/
